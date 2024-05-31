@@ -1,0 +1,2 @@
+class TechnicalSkillsController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class SocialLinksController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class TechnicalSkill < ApplicationRecord
+end
